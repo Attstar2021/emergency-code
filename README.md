@@ -32,12 +32,48 @@ Support NGOs is a platform created during a five day World NGO Day hackathon to 
 
 ---
 ## User Experience
+Users visit our website to directly witness what is happening in the world regarding NGOs. They are invited to register and establish an account, where they can stay informed by selecting specific causes that align with their interests and values. They can explore ways to support the chosen NGOs, and are encouraged to engage with us through our blogs to stay up-to-date with the latest information and facts about the NGOs.
 
-### Strategy Plane
+Additionally, our website provides a platform for users to connect with various NGOs that they may wish to donate to or volunteer for. Users may be redirected to external websites to make donations or find volunteer opportunities with the chosen NGO. We aim to facilitate a seamless and secure process for users to contribute to causes they care about and make a positive impact on the world.
 
 ### Scope Plane
+### **Feature Planning**
+When planning the SupportNGOs page features and scope, We drew up a Desirability, Importance and Viability analysis of all the possible features to be included in the project, ranking them by order of importance from low (1) to high (5). Features that ranked the highest will be prioritised and should they have been delivered within this release, will then be marked accordingly so. The target users for each ranked feature are also identified.
 
-### Structure Plane
+| # | Feature | Target User | Desirability | Importance | Viability  | Delivered |
+| --- | --- | --- | --- | --- | --- | --- |
+| User Accounts |  |  |  |  |  |  |
+| 1 | User Role Permissions | All Users <sup>1</sup> | 5 | 5 | 5 | ✅ |
+| 2 | Account Registration | All Users <sup>1</sup> | 5 | 5 | 5 | ✅ |
+| 3 | User Email Confirmation | All Users <sup>1</sup> | 5 | 5 | 5 | ✅ |
+| 4 | Password Reset | All Users <sup>1</sup> | 5 | 5 | 5 | ✅ |
+| 5 | Social Media Registration &amp; Login | Visitors &amp; Shoppers | 5 | 2 | 2 | ❌ |
+| 6 | User Profile Page | Registered Users | 5 | 5 | 5 | ✅ |
+| Navigation |  |  |  |  |  |  |
+| 7 | Top Navigation to include: Logo, search bar, my account (register, login) NGO List and Blog | All Users <sup>1</sup> | 5 | 5 | 5 | ✅ |
+| 7 | Top Navigation to include: Logo, search bar, my account (View Profile, Edit Profile, Change E-mail, Account Settings) NGO List and Blog | All authenticated users <sup>1</sup> | 5 | 5 | 5 | ✅ |
+| 8 | Top Navigation Search Bar: To be enabled for NGO List link and Blog link | All Users <sup>1</sup> | 5 | 5 | 5 | ✅ |
+| NGO lists |  |  |  |  |  |  |
+| 9 | NGO Main page Categories | All Users <sup>1</sup> | 5 | 5 | 5 | ✅ |
+| 10 | NGO search | All Users <sup>1</sup> | 5 | 5 | 5 | ✅ |
+| 11 | NGO entire list | All Users <sup>1</sup> | 5 | 5 | 5 | ✅ |
+| 12 | NGO list sort-by causes| All Users <sup>1</sup> | 5 | 5 | 5 | ✅ |
+| 13 | NGO Detail page to include: Link to NGO website, Donate link, Awarenes link, finding More NGO's  | All Users <sup>1</sup> | 5 | 5 | 5 | ✅ |
+| Blog |  |  |  |  |  |  |
+| 14 | Blog for users to share their story | All Users <sup>1</sup> | 5 | 5 | 5 | ✅ |
+| 15 | Commenting by same and other users | All Users <sup>1</sup> | 5 | 5 | 5 | ✅ |
+| 16 | Liking each commenting and blog post | All Users <sup>1</sup> | 3 | 5 | 5 | ✅ |
+| Wishlist |  |  |  |  |  |  |
+| 17 | Individual User's follow list - Create list by liking individual NGO and fallowing the news for them | Logged In Users | 4 | 3 | 5 | ❌ |
+| 18 | Policy Pages | All Users <sup>1</sup> | 3 | 4 | 3 | ❌ |
+| Digital Marketing |  |  |  |  |  |  |
+| 19 | Social Media Presence | Visitors | 3 | 3 | 3 | ❌ |
+| Email Marketing |  |  |  |  |  |  |
+| 20 | Email Subscription, Powered by MailChimp | Registered Subscribers | 5 | 5 | 5 | ✅ |
+| Contact Us |  |  |  |  |  |  |
+| 21 | Contact Form | All Users <sup>1</sup> | 3 | 3 | 3 | ❌ |
+| Other Features |  |  |  |  |  |  |
+| 22 | SEO Friendly URLs - use slugs for URLs vs IDs such as product id, review id, NGO id for better SEO | All Users <sup>1</sup> | 3 | 5 | 2 | ❌ |
 
 ### Skeleton Plane
 
@@ -58,8 +94,6 @@ Grey is a neutral color that can represent balance, maturity, and reliability. F
 
 Green is a color that is often associated with nature, health, and sustainability. For NGOs that work in environmental conservation, public health, or sustainable development, green can be a powerful symbol of their mission. Green can also represent growth, renewal, and hope, which can be inspiring to stakeholders who want to see positive change in the world.
 
-
-### Surface Plane
 
 ---
 ## Agile Methodology
