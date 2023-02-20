@@ -190,8 +190,6 @@ I used W3C Markup Validation Service to validate all the HTML files by direct in
 #### CSS Validation
 CSS Validation Service to validate CSS.
 
-![image](https://user-images.githubusercontent.com/91749477/219985706-e9c7a626-5897-4191-8a5e-2cec75c5375b.png)
-
 #### Javascript Validation
 
 #### Python Validation
