@@ -1,4 +1,4 @@
-# Hand of Empathy
+# SupportNGOs
 ![amiresponsive mockups of SupportNGOs site](./documentation/am-i-responsive-new.png)</br>
 
 **[Link to the deployed site](https://support-ngo.herokuapp.com/)**
